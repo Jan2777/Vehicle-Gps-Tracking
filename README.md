@@ -50,12 +50,10 @@ Start the Vehicle Recognition System
 Access the tracking dashboard to view real-time vehicle locations and historical data.
 
 🖼️ Images
-Add relevant images to showcase the project. For example:
 
-Vehicle Classification Example
-
-
-Number Plate Recognition Example
+Some examples are:
+![](https://github.com/Jan2777/Vehicle-Gps-Tracking/blob/main/240416114616-VehicleNoPlate%20(1).jpg)
+![](https://github.com/Jan2777/Vehicle-Gps-Tracking/blob/main/240416114616-VehicleNoPlate%20(1).jpg)
 
 
 <h2>🛠️ Development</h2>
