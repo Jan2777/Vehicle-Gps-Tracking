@@ -53,7 +53,9 @@ Access the tracking dashboard to view real-time vehicle locations and historical
 
 Some examples are:
 ![](https://github.com/Jan2777/Vehicle-Gps-Tracking/blob/main/240416114616-VehicleNoPlate%20(1).jpg)
-![](https://github.com/Jan2777/Vehicle-Gps-Tracking/blob/main/240416114616-VehicleNoPlate%20(1).jpg)
+![](https://github.com/Jan2777/Vehicle-Gps-Tracking/blob/main/240418085839-VehicleNoPlate%20(1).jpg)
+
+Others are there in the repository
 
 
 <h2>🛠️ Development</h2>
